@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="ico_pin" class="cls-1" d="M15.528,2,13.7,3.828l1.341,1.341A25.853,25.853,0,0,0,11.872,12.4L9.109,13.781,7.2,11.872,5.372,13.7,16.3,24.628,18.128,22.8,16.1,20.769l1.381-2.763c0,.218,4.621-1.346,7.313-3.087L26.172,16.3,28,14.472ZM8.5,19.672,2,26.172,3.828,28l6.5-6.5Z" transform="translate(-1.5 -1.5)"/>
+</svg>

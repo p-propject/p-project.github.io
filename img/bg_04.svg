@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290.334" height="312.201" viewBox="0 0 290.334 312.201">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #f1f1f1;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 8.079 8.079;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 4.599 4.599;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_27093" data-name="사각형 27093" class="cls-1" width="214.18" height="252.196"/>
+    </clipPath>
+  </defs>
+  <g id="bg_04" transform="matrix(0.934, -0.358, 0.358, 0.934, 0, 76.755)">
+    <g id="그룹_425" data-name="그룹 425" class="cls-2">
+      <circle id="타원_4" data-name="타원 4" class="cls-3" cx="97.756" cy="97.756" r="97.756" transform="translate(16.632 54.648)"/>
+      <circle id="타원_5" data-name="타원 5" class="cls-4" cx="55.667" cy="55.667" r="55.667" transform="translate(2.037 2.037)"/>
+    </g>
+  </g>
+</svg>

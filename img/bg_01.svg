@@ -1,0 +1,59 @@
+<svg id="bg_01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="640" viewBox="0 0 1060 640">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke: #f9f9f9;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #f9f9f9;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_27075" data-name="사각형 27075" class="cls-1" width="838" height="528"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_420" data-name="그룹 420" class="cls-2">
+    <line id="선_6" data-name="선 6" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -35.731)"/>
+    <line id="선_7" data-name="선 7" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -53.608)"/>
+    <line id="선_8" data-name="선 8" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -71.484)"/>
+    <line id="선_9" data-name="선 9" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -89.36)"/>
+    <line id="선_10" data-name="선 10" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -107.236)"/>
+    <line id="선_11" data-name="선 11" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -125.113)"/>
+    <line id="선_12" data-name="선 12" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -142.989)"/>
+    <line id="선_13" data-name="선 13" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -160.865)"/>
+    <line id="선_14" data-name="선 14" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -178.741)"/>
+    <line id="선_15" data-name="선 15" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -196.617)"/>
+    <line id="선_16" data-name="선 16" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -214.494)"/>
+    <line id="선_17" data-name="선 17" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -232.37)"/>
+    <line id="선_18" data-name="선 18" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -250.246)"/>
+    <line id="선_19" data-name="선 19" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -268.122)"/>
+    <line id="선_20" data-name="선 20" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -285.999)"/>
+    <line id="선_21" data-name="선 21" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -303.875)"/>
+    <line id="선_22" data-name="선 22" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -321.751)"/>
+    <line id="선_23" data-name="선 23" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -339.628)"/>
+    <line id="선_24" data-name="선 24" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -357.504)"/>
+    <line id="선_25" data-name="선 25" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -375.38)"/>
+    <line id="선_26" data-name="선 26" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -393.256)"/>
+    <line id="선_27" data-name="선 27" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -411.133)"/>
+    <line id="선_28" data-name="선 28" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -429.009)"/>
+    <line id="선_29" data-name="선 29" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -446.885)"/>
+    <line id="선_30" data-name="선 30" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -464.761)"/>
+    <line id="선_31" data-name="선 31" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -482.637)"/>
+    <line id="선_32" data-name="선 32" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -500.514)"/>
+    <line id="선_33" data-name="선 33" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -518.39)"/>
+    <line id="선_34" data-name="선 34" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -536.266)"/>
+    <line id="선_35" data-name="선 35" class="cls-3" y1="564.09" x2="872.903" transform="translate(-34.658 -554.142)"/>
+  </g>
+  <path id="패스_879" data-name="패스 879" class="cls-4" d="M980,620.871l-980,640v-640Z" transform="translate(80 -620.871)"/>
+</svg>

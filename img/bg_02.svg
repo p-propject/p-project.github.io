@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="738" height="654.398" viewBox="0 0 738 654.398">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9f9f9;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="타원_3" data-name="타원 3" class="cls-1" cx="265" cy="265" r="265" transform="translate(0 0)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="패스_880" data-name="패스 880" class="cls-1" d="M499.249,559.264a175,175,0,1,0,0-247.485,175,175,0,0,0,0,247.485" transform="translate(-447.995 -260.523)"/>
+    </clipPath>
+  </defs>
+  <g id="bg_02" transform="translate(-1483 -610)">
+    <g id="그룹_423" data-name="그룹 423" transform="translate(1691 610)">
+      <g id="그룹_422" data-name="그룹 422" class="cls-2" transform="translate(0 0)">
+        <rect id="사각형_27076" data-name="사각형 27076" class="cls-1" width="749.533" height="749.533" transform="translate(-265 265) rotate(-45)"/>
+      </g>
+    </g>
+    <g id="그룹_424" data-name="그룹 424" class="cls-3" transform="translate(1483 914.401)">
+      <rect id="사각형_27077" data-name="사각형 27077" class="cls-1" width="11.638" height="372.395" transform="translate(-75.953 190.537) rotate(-135)"/>
+      <rect id="사각형_27078" data-name="사각형 27078" class="cls-1" width="11.638" height="372.395" transform="translate(-58.373 208.117) rotate(-135)"/>
+      <rect id="사각형_27079" data-name="사각형 27079" class="cls-1" width="11.638" height="372.394" transform="translate(-40.793 225.696) rotate(-135)"/>
+      <rect id="사각형_27080" data-name="사각형 27080" class="cls-1" width="11.638" height="372.394" transform="translate(-23.213 243.277) rotate(-135)"/>
+      <rect id="사각형_27081" data-name="사각형 27081" class="cls-1" width="11.638" height="372.394" transform="translate(-5.633 260.857) rotate(-135)"/>
+      <rect id="사각형_27082" data-name="사각형 27082" class="cls-1" width="11.638" height="372.395" transform="translate(11.946 278.436) rotate(-135)"/>
+      <rect id="사각형_27083" data-name="사각형 27083" class="cls-1" width="11.637" height="372.395" transform="translate(29.526 296.016) rotate(-135)"/>
+      <rect id="사각형_27084" data-name="사각형 27084" class="cls-1" width="11.638" height="372.394" transform="translate(47.106 313.595) rotate(-135)"/>
+      <rect id="사각형_27085" data-name="사각형 27085" class="cls-1" width="11.637" height="372.394" transform="translate(64.685 331.175) rotate(-135)"/>
+      <rect id="사각형_27086" data-name="사각형 27086" class="cls-1" width="11.638" height="372.395" transform="translate(82.265 348.756) rotate(-135)"/>
+      <rect id="사각형_27087" data-name="사각형 27087" class="cls-1" width="11.638" height="372.395" transform="translate(99.845 366.335) rotate(-135)"/>
+      <rect id="사각형_27088" data-name="사각형 27088" class="cls-1" width="11.638" height="372.395" transform="translate(117.424 383.915) rotate(-135)"/>
+      <rect id="사각형_27089" data-name="사각형 27089" class="cls-1" width="11.638" height="372.394" transform="translate(135.005 401.494) rotate(-135)"/>
+      <rect id="사각형_27090" data-name="사각형 27090" class="cls-1" width="11.638" height="372.394" transform="translate(152.584 419.074) rotate(-135)"/>
+      <rect id="사각형_27091" data-name="사각형 27091" class="cls-1" width="11.638" height="372.395" transform="translate(170.164 436.654) rotate(-135)"/>
+      <rect id="사각형_27092" data-name="사각형 27092" class="cls-1" width="11.638" height="372.395" transform="translate(187.744 454.234) rotate(-135)"/>
+    </g>
+  </g>
+</svg>
